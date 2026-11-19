@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+data/
+database/
+manual_audit/
+pdf_mff/
+pdf_mff_test/
+output/
+*.db
+*.db-*
+*.sqlite*
+*.pdf
+*.csv
+*.log
